@@ -4,7 +4,7 @@ Qemu boot in aarch64, with ATF(arm trusted firmware) and EDK2 firmware.
 
 
 (a) Mouzakitis Nikolaos
-mzktsn@gail.com
+mzktsn@gmail.com
 
 QEMU virt Armv8-A
 
