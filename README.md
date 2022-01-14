@@ -110,3 +110,10 @@ built previously with the Buildroot.
 	-d unimp \
 	-no-acpi \
 
+
+
+![img](https://github.com/NikosMouzakitis/QEMU_BOOT_aarch64_atf_edk2_firmware/blob/main/1.png)
+We can observe the Bl1 Bl2 and Bl31(QEMU_EFI.fd) running.
+![img](https://github.com/NikosMouzakitis/QEMU_BOOT_aarch64_atf_edk2_firmware/blob/main/3.png)
+And at this point we have entered Linux runtime.
+
